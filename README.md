@@ -8,7 +8,7 @@ A continuación, se muestran algunas de las características principales de la a
 
 | Chat Principal | Respuesta con GIF | Respuesta con Imagen | Reenviar Mensaje |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/readme/chat_principal.png" width="250"> | <img src="assets/readme/respuesta_gif.png" width="250"> | <img src="assets/readme/respuesta_imagen.png" width="250"> | <img src="assets/readme/reenviar_mensaje.png" width="250"> |
+| <img src="assets/readme/chat_principal.jpg" width="250"> | <img src="assets/readme/respuesta_gif.jpg" width="250"> | <img src="assets/readme/respuesta_imagen.jpg" width="250"> | <img src="assets/readme/reenviar_mensaje.jpg" width="250"> |
 |_Pantalla principal de la conversación._|_Respuesta automática con un GIF al hacer una pregunta._|_Respuesta con una imagen local al usar una palabra clave._|_Opción para reenviar un mensaje que no se pudo enviar._|
 
 ## Características
